@@ -11,7 +11,7 @@
 * How would you handle a situation where you were under stress and additional work piled on?
 * Tell me about your background?
 * Name your favorite programming functionality?
-* What you know about Cerner?
+* What you know about THE_COMPANY?
 * What projects you have accomplished or what project you are proud of?
 * Are you proficient in java. What type of job are you looking for?
 * Tell me about a recent technology that you have learned and the way how you learned it?
@@ -43,13 +43,13 @@
 * When was a time you were told to do a certain process, but you disagreed with the current process?
 * Can you explain an academic project? At Least 3
 * Time when you were challenged by an employee ?
-* How did u hear about cerner?
+* How did u hear about THE_COMPANY?
 * How did you handle two conflicts that occurred at the same time?
 * Tell me about a time you were behind schedule?
 * Biggest failure and how did you handle it?
 * How have you transitioned from working individually to working in a group?
 * When was a time you succeeded at a technical task, when was a time you failed, and what was the difference?
-* Do you know about what Cerner does?
+* Do you know about what THE_COMPANY does?
 * How do I handle stress?
 * What from your past would assist you in this position?
 * Name a time you went above and beyond at a previous job?
@@ -63,5 +63,5 @@
 * Describe a time when you had to make a difficult decision?
 * Describe a time when you did not perform as well as you wanted?
 * Describe a time when you had to facilitate a new process/change?
-* Why do you want to work for Cerner? How did you hear about Cerner?
+* Why do you want to work for THE_COMPANY? How did you hear about THE_COMPANY?
 * Time where you were doing something incorrect at work. How did you respond?
